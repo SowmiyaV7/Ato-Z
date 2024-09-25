@@ -1,0 +1,214 @@
+/*************header start**************/
+.top{
+    padding: 20px 0px 0px 200px;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+}
+.top .left img{
+    width: 40%;
+}
+.top .right ul{
+    padding: 15px 0px 0px 5px;
+}
+.top .right ul li{
+    display: inline-block;
+    padding: 0px 0px 0px 30px;
+    font-weight: bold;
+    color: #878787;
+}
+.top .right ul li span{
+    color: #ff7a57;
+}
+.top .right ul li button{
+    border-radius: 20px;
+    height: 38px;
+    box-shadow: none;
+    background-color: #ff7a57;
+    color: white;
+    font-weight: bold;
+    border-color: #ff7a57;
+}
+.top .right ul li button:hover{
+    background-color: #ff3d0b;
+}
+/*************header end**************/
+/*************Baner start**************/
+.Banner{
+    padding: 10px 0px 0px 0px;
+}
+.Banner .left{
+    padding: 180px 0px 0px 0px;
+}
+.Banner .left ul{
+    list-style-type: none;
+}
+.Banner .left ul li h4{
+    color: #878787;
+    font-size: 30px;
+    padding: 0px 0px 0px 0px;
+}
+.Banner .left ul li h1{
+    color: #495057;
+    font-size: 70px;
+    font-weight: bolder;
+}
+.Banner .left ul li button{
+    border-radius: 20px;
+    height: 35px;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px 0px 0px 10px;
+}
+.Banner .left ul li .first{
+    border-radius: 20px;
+    height: 40px;
+    font-size: 20px;
+    margin: 10px 0px 0px 10px;
+    background-color: #ff7a57;
+    color: white;
+    font-weight: bold;
+    border-color: #ff7a57;
+}
+.Banner .left ul li .first:hover{
+    background-color: #ff3d0b;
+    transition-duration: 0.2s;
+}
+.Banner .left ul li .second{
+    border-radius: 20px;
+    height: 40px;
+    font-size: 20px;
+    margin: 10px 0px 0px 10px;
+    background-color: #495057;
+    color: white;
+    font-weight: bold;
+    border-color: #495057;
+}
+.Banner .left ul li .second:hover{
+    background-color:#343a40 ;
+    transition-duration: 0.2s;
+}
+.Banner .left ul li span button{
+    border-color: #ff7a57;
+    color: #ff7a57;
+    background-color: white;
+    margin: 20px 10px 0px 10px;
+}
+.Banner .left ul li span button:hover{
+    color: white;
+    background-color: #ff3d0b;
+    transition-duration: 0.2s;
+}
+.Banner .right img{
+    width: 80%;
+}
+/*************Banner end**************/
+/*************content1 start**************/
+.content1{
+    margin: 0px 0px 0px 0px;
+    padding: 50px 0px 0px 0px;
+}
+.content1 .left img{
+    width: 73%;
+    margin: 10px 0px 0px 60px;
+}
+.content1 .right ul{
+    list-style-type: none;
+}
+.content1 .right ul li h2{
+    color: #495057;
+    font-weight: bold;
+}
+.content1 .right ul li p{
+    font-size: 18px;
+    color: #495057;
+}
+.content1 .right ul li button{
+    border-color: #ff7a57;
+    background-color:#ff7a57;
+    color: #ff7a57;
+    margin: 20px 10px 0px 10px;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+    height: 40px;
+}
+.content1 .right ul li button:hover{
+    background-color: #ff3d0b;
+    transition-duration: 0.2s;
+}
+/*************content1 end**************/
+/*************content2 start**************/
+.content2{
+    margin: 0px 0px 0px 0px;
+    margin: 100px 0px 0px 0px;
+}
+.content2 ul li{
+    list-style-type: none;
+}
+.content2 ul li h2{
+    color: #495057;
+}
+.content2 ul li p{
+    color: #495057;
+    font-size: 18px;
+}
+.content2 ul li .second{
+    padding: 0px 0px 0px 0px;
+}
+.content2 ul li .first{
+    padding: 30px 0px 0px 0px;
+}
+/*************content2 end**************/
+/*************content3 start**************/
+.content3{
+    margin: 0px 0px 0px 0px;
+    padding: 100px 0px 0px 0px;
+}
+.content3 .box{
+    height: 250px;
+    border-radius: 10px ;
+    padding: 80px;
+    box-shadow: 0px 0px 5px #878787;
+}
+.content3 .box:hover{
+    background-color: #ff7a57;
+    transition-duration: 0.2s;
+}
+.content3 .box i{
+    font-size: 60px;
+    color: #ff7a57;
+}
+.content3 .box:hover i{
+    color: white;
+}
+.content3 .box p{
+    font-size: 20px;
+    color: #495057;
+}
+.content3 .box:hover p{
+    color: white;
+}
+
+/*************content3 end**************/
+/*************content4 start**************/
+.content4{
+    margin: 0px 0px 0px 0px;
+    margin: 100px 0px 0px 0px;
+}
+.content4 ul li{
+    list-style-type: none;
+}
+.content4 ul li h2{
+    color: #495057;
+}
+.content2 ul li p{
+    color: #495057;
+    font-size: 18px;
+}
+
+/*************content4 end**************/
+
+
+
+
